@@ -1,2 +1,2 @@
 # Kuka
-Kupon Untuk Merena, mobile apps for giving donation by purchasing coupon 
+Kupon Untuk Mereka, mobile apps for giving donation by purchasing coupon 
